@@ -1,9 +1,9 @@
 {
   "name": "Night Time Data on SLT Usage Meter",
   "short_name" : "SLT Night Data",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "manifest_version": 2,
-  "description": "Displays Night Time Data on SLT usage meter. Created by Thambaru Wijesekara",
+  "description": "Displays Night Time Data on SLT usage meter.",
   "homepage_url": "https://thambaru.com",
   "icons": {
     "16": "icons/icon16.png",
