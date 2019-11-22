@@ -1,7 +1,7 @@
 {
   "name": "Night Time Data on SLT Usage Meter",
   "short_name" : "SLT Night Data",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "manifest_version": 2,
   "description": "Displays Night Time Data on SLT usage meter.",
   "homepage_url": "https://thambaru.com",
